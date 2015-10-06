@@ -1,0 +1,11 @@
+{
+    "name": "luzy/agent",
+    "description": "获取user agent信息",
+    "authors": [
+        {
+            "name": "luzhongyang",
+            "email": "914577188@qq.com"
+        }
+    ],
+    "require": {}
+}
