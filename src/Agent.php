@@ -2,6 +2,10 @@
 
 namespace Luzhongyang\Agent;
 
+/**
+ * Class Agent
+ * @package Luzhongyang\Agent
+ */
 class Agent
 {
     public function isMobile()
