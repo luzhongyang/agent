@@ -1,6 +1,6 @@
 <?php
 
-namespace Luzhoongyang\Agent;
+namespace Luzhongyang\Agent;
 
 class Agent
 {
