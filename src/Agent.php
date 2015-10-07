@@ -8,6 +8,9 @@ namespace Luzhongyang\Agent;
  */
 class Agent
 {
+    /**
+     * @return bool
+     */
     public function isMobile()
     {
         return (boolean)preg_match(
